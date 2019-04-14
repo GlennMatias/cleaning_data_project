@@ -1,3 +1,5 @@
+<h1>README</h1>
+
 <b>This repo contains all the necessary project files for the JHU's project assignment on Getting and Cleaning Data module in Coursera.</b> 
 
 <b>Steps in obtaining the required independent tidy dataset</b>
