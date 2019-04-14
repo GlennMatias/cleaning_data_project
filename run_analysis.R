@@ -79,6 +79,5 @@ subset_with_activity_names = merge(subset_for_mean_and_std, activity_labels, by 
 second_tidy_dataset = aggregate(. ~subject_id + activity_id + activity_type, subset_with_activity_names, mean)
 second_tidy_dataset = second_tidy_dataset[order(second_tidy_dataset$subject_id, second_tidy_dataset$activity_id), ]
 
-colnames(second_tidy_dataset)
 #output second_tidy_dataset into another file
 write.table(second_tidy_dataset, "second_tidy_dataset.txt", row.name = FALSE)

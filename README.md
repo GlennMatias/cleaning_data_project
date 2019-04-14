@@ -4,8 +4,7 @@ Steps in obtaining the required independent tidy dataset
 1. Open the R script with the name run_analysis.R
 2. Press on ctrl + A to highlight all the code
 3. Press ctrl + enter to run the code
-4. Since all the required files are already in this repository, your R studio doesn't need to download anthing from the internet.
-5. Locate the "second_tidy_dataset.txt" file (if it is not yet there) 
+4. Locate the "second_tidy_dataset.txt" file.
 
 Files in this repository
 1. run_analysis.R
