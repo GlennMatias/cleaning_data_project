@@ -1,4 +1,4 @@
-This repo contains all the necessary project files for the JHU's project assignment on Getting and Cleaning Data module in Coursera. 
+<b>This repo contains all the necessary project files for the JHU's project assignment on Getting and Cleaning Data module in Coursera.</b> 
 
 Steps in obtaining the required independent tidy dataset
 1. Open the R script with the name run_analysis.R
